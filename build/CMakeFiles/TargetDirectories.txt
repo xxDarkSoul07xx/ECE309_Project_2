@@ -1,0 +1,4 @@
+/mnt/c/Users/banir/OneDrive/Attachments/Documents/GitHub/ECE309_Project_2/build/CMakeFiles/miniharness.dir
+/mnt/c/Users/banir/OneDrive/Attachments/Documents/GitHub/ECE309_Project_2/build/CMakeFiles/test_p2.dir
+/mnt/c/Users/banir/OneDrive/Attachments/Documents/GitHub/ECE309_Project_2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/banir/OneDrive/Attachments/Documents/GitHub/ECE309_Project_2/build/CMakeFiles/rebuild_cache.dir
